@@ -37,13 +37,11 @@
 
 .flexFour {
     display: flex;
-    width: 450px;
+    width: 350px;
     flex-wrap: wrap;
-
 }
 
 .flexFour div {
-    width: 350px;
     margin: 5px;
     background-color: #3d8b6d;
 }
